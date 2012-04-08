@@ -1,5 +1,8 @@
 env/
 *~
-*.pyc
+*.py[co]
+*.sw[op]
 \#*
 \#*#
+.DS_Store
+local_settings.py
