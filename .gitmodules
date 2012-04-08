@@ -1,0 +1,3 @@
+[submodule "apps/common"]
+	path = apps/common
+	url = git@github.com:PuercoPop/common.git
